@@ -3,7 +3,7 @@
 This is a simple React Native project in typescript to be delivered as an Interview task.
 
 ## Demo
-<img src="https://github.com/s-ebrahimi/typescript-react-native-sample/preview/preview.gif" width="300">
+<img src="https://github.com/sasan-ebrahimi/typescript-react-native-sample/blob/master/preview/preview.gif" width="300">
 
 ## Features
 
