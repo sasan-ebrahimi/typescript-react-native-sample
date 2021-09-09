@@ -1,0 +1,2 @@
+export const USER_LIST = "USER_LIST"
+export const CACHE_USERS_TIMESTAMP = "CACHE_USERS_TIMESTAMP"
